@@ -66,8 +66,7 @@ pyautogui.click()
 pyautogui.moveTo(x=123, y=745)
 pyautogui.click()
 time.sleep(10)
-pyautogui.scroll(-5000)
-time.sleep(2)
+
 
 # Entrar em Faltas parciais
 pyautogui.moveTo(x=127, y=768)
