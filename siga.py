@@ -28,10 +28,10 @@ pyautogui.press("enter")
 
 # Escrever no Usuario
 time.sleep(0.5) 
-pyautogui.write("50456337830")
+pyautogui.write("Seu cpf")
 pyautogui.press("tab")
 # Escrever a senha
-pyautogui.write("Beluca@ads2021")
+pyautogui.write("Sua senha")
 # Dar um TAB e pressionar o "CONFIRMAR" e entrar
 pyautogui.press("tab")
 pyautogui.press("enter")
